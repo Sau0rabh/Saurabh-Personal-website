@@ -1,15 +1,19 @@
 body{
     min-height: 100vh;background: url('image/about.jpg') no-repeat;
-    background-size: 100%;
+    background-size: 123%;
     background-position: center;
+    margin: 0rem;
 }
 .abouts{
-    font-family: "Imbue", serif;
+    font-family: cursive;
     font-optical-sizing: auto;
     font-style: normal;
     font-size: 1.5rem;
     text-align: center;
     margin-top: 9rem;
-    color:#D875C7;
+    color:#51829B;
 }
- 
+ .para{
+    margin-left: 4rem;
+    margin: 20rem;
+ }
