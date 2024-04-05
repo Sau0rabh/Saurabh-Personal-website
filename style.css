@@ -6,11 +6,12 @@ body {
   
 .top-container{
     background-color: #e4e4e4;
-}
-.nav-link{
-    margin-left: 2rem;
+    
 }
 
+.nav-item {
+    padding-left: 14.5rem;
+}
 
 
 .topc {
@@ -76,9 +77,9 @@ h2{
     text-align: center;
 }
 .skill-row{
-    margin: 100px auto auto 100px;
+    margin: 100% auto auto 100%;
     text-align: left;
-    padding-left: 180px;
+    padding-left: 180%;
 }
 .design{
     line-height: 2;
@@ -105,6 +106,7 @@ h2{
 .text3{
     text-align: left;
 }  
+
 .intro1{
     font-family: "Merriweather", serif;
     font-weight: 400;
@@ -113,6 +115,7 @@ h2{
     padding-top: 40px;
     color: #449194;
 }
+
 h3{
     font-family: "Exo 2", sans-serif;
     font-optical-sizing: auto;
@@ -165,7 +168,7 @@ h3{
 }
 .logo{
     border-radius: 80%;
-    margin-left: 16rem;
+    margin-left: 8.5rem;
     margin-top: 1rem;
 }
 .navbar {
