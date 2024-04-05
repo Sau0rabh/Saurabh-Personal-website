@@ -12,7 +12,13 @@ body {
 .nav-item {
     padding-left: 14.5rem;
 }
-
+.nav-link{
+    font-size: 1.5rem;
+    font-family: "Exo 2", sans-serif;
+    padding: 2rem;
+    
+}
+ 
 
 .topc {
    top: 50px;
@@ -75,11 +81,12 @@ h2{
     color: #11999E;
     font-size: 40px;
     text-align: center;
+    padding: 1rem;
 }
 .skill-row{
-    margin: 100% auto auto 100%;
+    margin: 100px auto auto 100px;
     text-align: left;
-    padding-left: 180%;
+    padding-left: 180px;
 }
 .design{
     line-height: 2;
@@ -101,6 +108,7 @@ h2{
    
 .pencil{
     width: 18%;
+    height: 18%;
    float: left;
 }   
 .text3{
@@ -176,12 +184,7 @@ background: transparent;
 margin: 0px 10px 0px 10px;
 }  
    
-.nav-link{
-    font-size: 1.5rem;
-    font-family: "Exo 2", sans-serif;
-    
-}
-   .btn {
+  .btn {
     background: #3498db;
     background-image: -webkit-linear-gradient(top, #3498db, #146fa8);
     background-image: -moz-linear-gradient(top, #3498db, #146fa8);

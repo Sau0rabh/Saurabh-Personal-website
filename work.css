@@ -1,11 +1,14 @@
 body{
-    min-height: 100vh;background: url('image/work.jpg') no-repeat;
-    background-size: 100%;
-    background-position: center;
+
+    margin: 0;
 }
 h1{
     font-size: 8rem;
     font-family: cursive;
     text-align: center;
     color: azure;
+}
+
+.sacramento-regular {
+    font-family: cursive;
 }
