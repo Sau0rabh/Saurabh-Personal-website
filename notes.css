@@ -1,11 +1,4 @@
-body{
-    min-height: 100vh;background: url('image/notess.jpg') no-repeat;
-    background-size: 105%;
-    background-position: center;
-}
-h4{
-    text-align: center;
-    font-size: 7.5rem;
-    font-family:cursive;
-    color: cadetblue;
+.skill-section {
+    background-color: #fff;
+    box-sizing: border-box;
 }
